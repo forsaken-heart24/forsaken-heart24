@@ -9,7 +9,7 @@
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; I'm a kid who goes to school.
 - ☕ &nbsp; A cup of coffie is enough for me to calm down.
-- 📫 &nbsp; Reach me out: mailto:dumb.alt.luna.b.realm.io.24outlook.com.
+- 📫 &nbsp; Reach me out: dumb.alt.luna.b.realm.io.24outlook.com
 
 <h3>🛠 Tech Stack</h3>
 
