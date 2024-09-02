@@ -1,4 +1,4 @@
-## 💜 _Hello, my name is <strong>Luna!</strong>_
+## 💖 _Hello, my name is <strong>Luna!</strong>_
 
 > I'm just an another kid who wants to be a backend developer....
 
