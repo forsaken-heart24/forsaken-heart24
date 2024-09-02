@@ -8,7 +8,7 @@
 - 🤔 &nbsp; Exploring new tech and developing skills.
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; I'm a kid who goes to school.
-- ☕ &nbsp; A cup of coffie is enough for me to calm down.
+- ☕ &nbsp; A cup of coffie = heaven.
 - 📫 &nbsp; Reach me out: dumb.alt.luna.b.realm.io.24outlook.com
 
 <h3>🛠 Tech Stack</h3>
