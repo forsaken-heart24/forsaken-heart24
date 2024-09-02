@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning YAML alongside java
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🤔 &nbsp; Exploring new tech and developing development skills.
+- 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; I'm a kid who goes to school.
 - ☕ &nbsp; A cup of coffie is enough for me to calm down.
 
