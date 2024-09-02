@@ -1,13 +1,21 @@
-## 💖 _Hello, my name is <strong>Luna!</strong>_
+<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-> I'm just an another kid who wants to be a backend developer....
+<h3> 👨🏻‍💻 About Me </h3>
 
-🔭 I'm currently working with equinoX UX....
+- 🔭 &nbsp; I’m currently learning YAML alongside java (wish me luck)
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; im a kid who goes to school.
+- ☕ &nbsp; I believe a perfect cup of coffee can be the ultimate solution for any of my stress. 
 
-💬 If you need to contact me, please use one of the respective links below.
+<h3>🛠 Tech Stack</h3>
 
+- 💻 &nbsp; C | C++ | Bash
+- 🌐 &nbsp; Android | Windows | Linux
 
-<p align="left">
-  <a href="#" alt="Telegram">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/bIinding_lights_LBZ24" /></a>
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://www.instagram.com/forsaken-heart24/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
 </p>
