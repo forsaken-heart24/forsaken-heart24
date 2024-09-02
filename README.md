@@ -6,8 +6,8 @@
 - 🔭 &nbsp; I’m currently learning YAML alongside java (wish me luck)
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; im a kid who goes to school.
-- ☕ &nbsp; I believe a perfect cup of coffee can be the ultimate solution for any of my stress. 
+- 💼 &nbsp; I'm a kid who goes to school.
+- ☕ &nbsp; A cup of coffie is enough for me to calm down.
 
 <h3>🛠 Tech Stack</h3>
 
