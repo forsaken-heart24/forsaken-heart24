@@ -3,8 +3,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Makefile & YAML.
-- 🤔 &nbsp; Exploring new tech and developing skills.
+<!-- - 🔭 &nbsp; I’m currently learning Makefile & YAML. -->
+- 🤔 &nbsp; Love exploring new tech and developing skills.
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; I'm a kid who goes to school.
 - ☕ &nbsp; A cup of coffie = heaven.
