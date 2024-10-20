@@ -11,11 +11,11 @@
 
 - ☕ &nbsp; A cup of coffee = pure bliss, no cap. Fueling my grind one sip at a time.
 
-- 📫 &nbsp; Reach me at: <a href="mailto:dumb.alt.luna.b.realm.io.24outlook.com">dumb.alt.luna.b.realm.io.24outlook.com</a>
+- 📫 &nbsp; Reach me at: <a href="mailto:dumb.alt.luna.b.realm.io.24outlook.com">Outlook</a>
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C | C++ | Bash—keeping it classic but fresh.
+- 💻 &nbsp; C | C++ | Java (learning it) | Bash—keeping it classic but fresh.
 - 🌐 &nbsp; Android | Windows | Linux—versatile vibes, baby!
 
 <h3>🤝🏻 Connect with Me</h3>
