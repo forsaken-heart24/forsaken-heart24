@@ -1,22 +1,22 @@
-<h2>Hey there! I'm Luna <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2>Hey there, I'm Luna!<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3>👨🏻‍💻 About Me</h3>
 
 - 🤔 &nbsp; Just vibing and exploring the latest tech, leveling up my skills like it’s a game.
 
-- 🎓 &nbsp; Currently grinding through Computer Science watch out, world!
+- 🎓 &nbsp; Currently grinding through Computer Science watch out, world! [ currently learning java & kotlin in the free times :) ]  
 
 - 💼 &nbsp; Just a kid navigating school life and trying to keep it 100 (maybe 50?).
 
 - ☕ &nbsp; A cup of coffee = pure bliss, no cap. Fueling my grind one sip at a time.
 
-- 📫 &nbsp; Reach me at: <a href="mailto:dumb.alt.luna.b.realm.io.24outlook.com">Outlook</a>
+- 📫 &nbsp; Reach me at: <a href="t.me/lunaromslore24">Telegram</a>
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 My Tech Stacks</h3>
 
-- 💻 &nbsp; C | C++ | Java (learning it) | Bash—keeping it classic but fresh.
-- 🌐 &nbsp; Android | Windows | Linux—versatile vibes, baby!
+- 💻 &nbsp; C | C++ | Bash
+- 🌐 &nbsp; Android | Linux | Windows
 
 <h3>🤝🏻 Connect with Me</h3>
 
@@ -26,4 +26,4 @@
 </p>
 
 <h3>✨ Let’s Get This Party Started!</h3>
-- Drop a follow, and let’s collab! Your support means everything—let’s make some magic happen! 🌟💖
+- Drop a follow, and let’s collab! Your support means everything to me! let’s make some magic happen! 🌟💖
