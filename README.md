@@ -11,7 +11,7 @@
 
 - ☕ &nbsp; A cup of coffee = pure bliss, no cap. Fueling my grind one sip at a time.
 
-- 📫 &nbsp; Reach me at: <a href="t.me/lunaromslore24">Telegram</a>
+- 📫 &nbsp; Reach me at: <a href="https://t.me/lunaromslore24">Telegram</a>
 
 <h3>🛠 My Tech Stacks</h3>
 
