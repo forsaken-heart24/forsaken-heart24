@@ -11,16 +11,16 @@
 
 - ☕ &nbsp; A cup of coffee = pure bliss, no cap. Fueling my grind one sip at a time.
 
-- 📫 &nbsp; Reach me at: <a href="https://t.me/lunaromslore24">Telegram</a>
+- 📫 &nbsp; Reach me at: <a href="https://t.me/lunaromslore24">Telegram</a> | <a href="https://t.me/luna_project_bugreporter_bot">Luna's Project Bugreporter BOT</a>
 
 <h3>🛠 My Tech Stacks</h3>
 
 - 💻 &nbsp; C | C++ | Bash
-- 🌐 &nbsp; Android | Linux | Windows
+- 🌐 &nbsp; Android | GNU/Linux | Windows
 
 <h3>🤝🏻 Connect with Me</h3>
 
-<p align="center">
+<p align="left">
 &nbsp; <a href="https://www.instagram.com/forsaken_heart24/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
 &nbsp; <a href="https://g.dev/forsaken_heart24" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" width="50" /></a>
 </p>
