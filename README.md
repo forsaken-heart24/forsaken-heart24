@@ -21,9 +21,12 @@
 <h3>🤝🏻 Connect with Me</h3>
 
 <p align="left">
-&nbsp; <a href="https://www.instagram.com/forsaken_heart24/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
-&nbsp; <a href="https://g.dev/forsaken_heart24" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" width="50" /></a>
+&nbsp; <a href="https://www.instagram.com/forsaken_heart24/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="50" /></a>
+&nbsp; <a href="https://signal.me/#eu/xcXWt2WakiWaM8nhMckBApXgIXpH7mLLQNQdJ-VKkkRrNUwq6JtI1IkNEMjwkrLj" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=xJbnjsTePaks&format=png&color=000000" width="50" /></a>
+&nbsp; <a href="https://t.me/ishimi_forsaken_heart24" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=jZ1z64hEYYLW&format=png&color=000000" width="50" /></a>
 </p>
+
+
 
 <h3>✨ Let’s Get This Party Started!</h3>
 - Drop a follow, and let’s collab! Your support means everything to me! let’s make some magic happen! 🌟💖
