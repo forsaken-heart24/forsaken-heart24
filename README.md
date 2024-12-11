@@ -1,3 +1,5 @@
+![usr-banner](https://github.com/forsaken-heart24/i_dont_want_to_be_an_weirdo/blob/main/banner_images/usr_profile_banner.png?raw=true)
+
 # Hey there, I'm Luna..
 
 ## About me
@@ -5,7 +7,6 @@
 - im a 16yrs old kid and i got some interest on coding when i was 13
 - love to listen to songs because it gets me in a different world.
 - i have many dreams, those were not big but i believe that i can achieve those dreams before something tragic happens to me...
-- 
 
 ## My Tech Stacks
 
