@@ -10,7 +10,7 @@
 
 ## My Tech Stacks
 
-- 💻 &nbsp; C | C++ | Bash | Python
+- 💻 &nbsp; C | C++ | Bash | Python | (soon assembly)
 - 🌐 &nbsp; Android | GNU/Linux | Windows
 
 ## Connect with Me
