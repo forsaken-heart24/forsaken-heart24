@@ -4,9 +4,9 @@
 
 ## About me
 
-- im a 16yrs old kid and i got some interest on coding when i was 13
-- love to listen to songs because it teleports me in a different world.
-- i have many dreams, those were not big but i believe that i can achieve those dreams before something tragic happens to me...
+- I'm a 16-year-old kid, and I lowkey got into coding when I was 13. Been grinding ever since.
+- Music just hits different—like, it straight-up teleports me to another universe
+- I got hella dreams—not crazy big, but I know I can pull ‘em off before life decides to speedrun me.
 
 ## My Tech Stacks
 
