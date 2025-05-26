@@ -4,13 +4,13 @@
 
 ## About me
 
-- I'm a 16-year-old kid, and I lowkey got into coding when I was 13. Been grinding ever since.
+- I'm a 17-year-old kid, and I lowkey got into coding when I was 13. Been grinding ever since.
 - Music just hits different—like, it straight-up teleports me to another universe
 - I got hella dreams—not crazy big, but I know I can pull ‘em off before life decides to speedrun me.
 
 ## My Tech Stacks
 
-- 💻 &nbsp; C | C++ | Bash | Python
+- 💻 &nbsp; C | Bash | Python | Java
 - 🌐 &nbsp; Android | GNU/Linux | Windows
 
 ## Connect with Me
